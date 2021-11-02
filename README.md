@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrsopan
+- 👋 Hi, I’m @vonsopanen
 - 👀 I’m interested in datascience and programming
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on different kind of open source projects
