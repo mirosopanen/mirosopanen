@@ -34,7 +34,7 @@ I am a 3th-year high school student in Tampere, pursuing mathematics and technol
 [![StackOverflow Badge](https://img.shields.io/badge/-daftdey-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/daftdey?tab=profile)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/souuoa/ "Follow on Instagram")
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
-[![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/mirosopa/ "Find on Reddit")
+[![Reddit Badge](https://img.shields.io/badge/-u/mirosopa-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/mirosopa/ "Find on Reddit")
 ----
 
 </details>
