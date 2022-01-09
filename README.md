@@ -11,7 +11,7 @@ I am a 3th-year high school student in Tampere, pursuing mathematics and technol
 - 📭 Reach out for help with Data Science & Python
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Nothing actually is fun...
+- 👾 Fun fact: Even I do programming, I am really unpatient
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
