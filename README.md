@@ -1,4 +1,4 @@
-## Hi there, [vonsopanen](https://sopanen.net) here 👋🏼👨🏻‍💻
+## Hi there, [mirosopanen](https://sopanen.net) here 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-miro@sopanen.net-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:miro@sopanen.net "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@vonsopanen-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/vonsopanen "Contact on Telegram")
@@ -18,9 +18,9 @@ I am a 3th-year high school student in Tampere, pursuing mathematics and technol
   
   <a href="https://samujjwaal.me/"></a>
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=vonsopanen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/vonsopanen)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=mirosopanen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mirosopanen)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=vonsopanen&color=blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=mirosopanen&color=blue)
 
 
   ----
@@ -29,8 +29,7 @@ I am a 3th-year high school student in Tampere, pursuing mathematics and technol
 
 <details>
   <summary>Find me around the web :globe_with_meridians:</summary>
-  
-[![DEV Badge](https://img.shields.io/badge/-vonsopanen-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/samujjwaal)
+ 
 [![StackOverflow Badge](https://img.shields.io/badge/-vonsopanen-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/y?tab=profile)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
 [![Reddit Badge](https://img.shields.io/badge/-u/mirosopa-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/mirosopa/ "Find on Reddit")
